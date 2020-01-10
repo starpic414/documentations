@@ -1,6 +1,6 @@
 title: "Documentations from Starpic"
 remote_theme: pmarsceill/just-the-docs
 url: 'https://starpic414.github.io'
-baseurl: '/docs'
+baseurl: '/documentations/'
 color_scheme: "dark"
 search_enabled: true
